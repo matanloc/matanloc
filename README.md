@@ -1,8 +1,8 @@
 <!-- Typing animation -->
 
-<h1 align="center">Hi, I'm Loc 👋</h1>
+<h1 align="center">Hi, I'm Tan Loc 👋</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=00ADB5&center=true&vCenter=true&width=500&lines=Front-End+Developer;React.js+%7C+Next.js;Building+clean+UI+%26+great+UX" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=00ADB5&center=true&vCenter=true&width=500&lines=Front-End+Developer;React.js+%7C+Next.js;Building+clean+UI+%26+great+UX" />
 </p>
 
 <p align="center">
@@ -41,7 +41,7 @@
 * Focus on frontend architecture and component structure
 * Built with React / Next.js ecosystem
   🔗 Live Demo: https://cookie-vibe.vercel.app/
-  🔗 Source Code: https://github.com/MaTanLoc/cookie-vibe
+  🔗 Source Code: https://github.com/MaTanLoc/CookieVibe
 
 ---
 
