@@ -75,7 +75,7 @@
 
 ## 📫 Contact
 
-* Email: [your-email@example.com](mailto:your-email@example.com)
+* Email: [locma2004@gmail.com](mailto:locma2004@gmail.com)
 * Portfolio: your-portfolio-link
 
 ---
