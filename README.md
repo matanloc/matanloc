@@ -35,31 +35,32 @@
 
 ## 🌟 Featured Projects
 
-### 🛒 E-commerce Web App
+### 🍪 Cookie Vibe
 
-* Modern UI with product filtering, cart, and checkout
-* Built with Next.js & Tailwind CSS
-* Fully responsive & optimized
-  🔗 Live Demo: [your-link]
-  🔗 Source Code: [your-link]
-
----
-
-### 📊 Admin Dashboard
-
-* Data visualization with charts
-* Reusable components & clean layout
-* Dark mode supported
-  🔗 Live Demo: [your-link]
-  🔗 Source Code: [your-link]
+* A modern web product with clean UI and smooth user experience
+* Focus on frontend architecture and component structure
+* Built with React / Next.js ecosystem
+  🔗 Live Demo: https://cookie-vibe.vercel.app/
+  🔗 Source Code: https://github.com/MaTanLoc/cookie-vibe
 
 ---
 
-### 🎨 UI Components Library
+### 🌿 Greenshield Mekong
 
-* Reusable UI components (Button, Modal, Form)
-* Focus on scalability & consistency
-  🔗 Source Code: [your-link]
+* Real-world landing page project
+* Clean layout, responsive design, and optimized performance
+* Focus on UI clarity and business presentation
+  🔗 Live Demo: https://greenshieldmekong.com/
+  🔗 Source Code: https://github.com/MaTanLoc/greenshieldmekong
+
+---
+
+### 🎨 UI Components Library (in progress)
+
+* Reusable UI components (Button, Modal, Form, Toast)
+* Focus on scalability, consistency, and clean code
+* Built with React + Tailwind
+  🔗 Source Code: (coming soon)
 
 ---
 
